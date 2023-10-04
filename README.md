@@ -84,7 +84,7 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-Developement enviroments for computing in educational settings 
+Developememt enviroments for computing in educational settings
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
