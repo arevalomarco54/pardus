@@ -1,4 +1,4 @@
-FROM alpine:latest
+FROM alpine:latest as pardus-dev
 
 # Update Repository Cache.
 RUN apk update
@@ -14,6 +14,12 @@ RUN apk add --no-cache coreutils git curl
 
 # Remove old packages.
 RUN apk cache clean
+
+# Create a non-root container user.
+RUN adduser -D panther
+
+# Switch to panther user.
+USER panther
 
 # Make plugin directory then link p10k into it.
 RUN mkdir -p ~/.local/share/zsh/plugins \
