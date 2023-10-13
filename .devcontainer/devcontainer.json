@@ -1,5 +1,17 @@
 {
     "build": {
         "dockerfile": "./Dockerfile"
+    } ,
+    "customizations": {
+        "vscode": {
+            "extensions": [
+                "ms-azuretools.vscode-docker",
+                "github.vscode-pull-request-github",
+                "github.copilot",
+                "yzhang.markdown-all-in-one",
+                "redhat.vscode-yaml",
+                "esbenp.prettier-vscode"
+            ]
+        }
     } 
 }
