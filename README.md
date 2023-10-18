@@ -1,3 +1,6 @@
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Pardus!&fontAlign=80&fontAlignY=40&color=gradient)
+
+
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 <!--
