@@ -195,8 +195,8 @@ Project Link: [https://github.com/paschalcs/pardus](https://github.com/paschalcs
 [contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo_name/network/members
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
+[issues-shield]: https://img.shields.io/github/issues/paschalcs/pardus.svg?style=for-the-badge
+[issues-url]: https://github.com/paschalcs/pardus/issues
 [license-shield]: https://img.shields.io/github/license/paschalcs/pardus.svg?style=for-the-badge
 [license-url]: https://github.com/paschalcs/pardus/blob/0a28e62cecd81348f891e1a7b1f528bfe8330338/LICENSE.txt
 [product-screenshot]: images/screenshot.png
