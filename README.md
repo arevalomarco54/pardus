@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Pardus!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Pardus!&fontAlign=50&fontAlignY=40&color=gradient)
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
@@ -84,9 +84,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
-Developememt enviroments for computing in educational settings
-
+Pardus is a project that focuses on creating custom made developememt environments for computing that encompasses a wide range of software tools, programming languages, and virtual/distance learning platforms. Pardus's primary goal is to elevate the learning experiences and skill development of students. These environments are created to provide a supportive and dynamic space for learners to actively engage in coding, software development, and problem-solving. Pardus's main mission is to strengthen a deeper understanding of computational concepts and emphasize the real-world applications of technology in educational settings.
 
 
 
