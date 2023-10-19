@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Pardus!&fontAlign=80&fontAlignY=40&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Pardus!&fontAlign=50&fontAlignY=40&color=gradient)
 
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
@@ -84,9 +84,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-
-Developememt enviroments for computing in educational settings
-
+Pardus is a project that focuses on creating custom made developememt environments for computing that encompasses a wide range of software tools, programming languages, and virtual/distance learning platforms. Pardus's primary goal is to elevate the learning experiences and skill development of students. These environments are created to provide a supportive and dynamic space for learners to actively engage in coding, software development, and problem-solving. Pardus's main mission is to strengthen a deeper understanding of computational concepts and emphasize the real-world applications of technology in educational settings.
 
 
 
@@ -193,14 +191,14 @@ Project Link: [https://github.com/paschalcs/pardus](https://github.com/paschalcs
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
-[contributors-url]: https://github.com/github_username/repo_name/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/paschalcs/pardus.svg?style=for-the-badge
+[contributors-url]: https://github.com/paschalcs/pardus/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
 [forks-url]: https://github.com/github_username/repo_name/network/members
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
-[issues-url]: https://github.com/github_username/repo_name/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
+[issues-shield]: https://img.shields.io/github/issues/paschalcs/pardus.svg?style=for-the-badge
+[issues-url]: https://github.com/paschalcs/pardus/issues
+[license-shield]: https://img.shields.io/github/license/paschalcs/pardus.svg?style=for-the-badge
+[license-url]: https://github.com/paschalcs/pardus/blob/0a28e62cecd81348f891e1a7b1f528bfe8330338/LICENSE.txt
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
